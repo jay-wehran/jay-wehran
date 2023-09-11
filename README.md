@@ -2,7 +2,8 @@
 
 <h2>🕸️ Information Systems Projects</h2>
 
-- [ParkMobile Parking Zone Implementation]([https://github.com/jay-wehran/ParkMobileImp/tree/main])
+ - [ParkMobile Parking Zone Implementation](https://github.com/jay-wehran/ParkMobileImp/tree/main)
+
 
 <h2>👨‍💻 Coding Projects & Progression:</h2>
 
