@@ -4,7 +4,7 @@
 
 - [ParkMobile Parking Zone Implementation](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2>👨‍💻 Information Systems Projects / Coding Projects & Progression:</h2>
+<h2>👨‍💻 Coding Projects & Progression:</h2>
 
 - <b>Beginner Programming Assingnments (Java)</b>
   - [Implementations of DS in Java](https://github.com/joshmadakor1/Algorithms-Practice)
