@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jason! <br/><a href="https://github.com/jay-wehran">
+<h1>Hi, I'm Jason! <br/>
 
 <h2>👨‍💻 Coding Projects / Progression:</h2>
 
