@@ -9,7 +9,7 @@
 <h2>👨‍💻 Coding Projects & Progression:</h2>
 
 - <b>Beginner Programming Assingnments (Java)</b>
-  - [Implementations of DS in Java](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Programming Projects, All The Way From The Beginning!](https://github.com/jay-wehran/begProgs)
 - <b>Data Structures and Algorithms Implementations in Java)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Systems Software Projects (C & C++)</b>
