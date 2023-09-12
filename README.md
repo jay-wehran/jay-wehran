@@ -2,7 +2,7 @@
 
 <h2>🕸️ Information Systems Projects / Business Projects</h2>
 
- - [ParkMobile Parking Zone Implementation](https://github.com/jay-wehran/ParkMobileImp/tree/main)
+ - [ParkMobile Parking Zone Implementation](https://github.com/jay-wehran/ParkMobileImp)
  - [MarketPlace Simulation Role Description](https://github.com/jay-wehran/marketSim)
 
 
