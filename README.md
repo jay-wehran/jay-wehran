@@ -14,7 +14,7 @@
 - <b>Intermediate Programming Projects (Java)</b>
   - [Programming Projects, Just A Little More Advanced...](https://github.com/jay-wehran/intermedProgs)
 
-- <b>Data Structures and Algorithms Implementations in Java)</b>
+- <b>Data Structures and Algorithms Implementations (Java)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
   
 - <b>Systems Software Projects (C & C++)</b>
