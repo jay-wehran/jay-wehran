@@ -15,13 +15,9 @@
   - [Programming Projects, Just A Little More Advanced...](https://github.com/jay-wehran/intermedProgs)
 
 - <b>Data Structures and Algorithms Implementations (Java)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [DS+A Implementations!!](https://github.com/jay-wehran/DSA)
   
 - <b>Systems Software Projects (C & C++)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-  - 
+  - [] 
 - <b>Web Systems Programming Projects (Javascript)</b>
   - Currently practicing and learning this...
