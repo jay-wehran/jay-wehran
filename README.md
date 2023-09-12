@@ -18,6 +18,7 @@
   - [DS+A Implementations!!](https://github.com/jay-wehran/DSA)
   
 - <b>Systems Software Projects (C & C++)</b>
-  - [Basic Systems Software Projects!] 
+  - [Basic Systems Software Projects!](https://github.com/jay-wehran/SystemsSoftware)
+
 - <b>Web Systems Programming Projects (Javascript)</b>
-  - Currently practicing and learning this...
+  - Currently practicing and learning this... projects soon to come.
