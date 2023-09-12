@@ -12,9 +12,8 @@
   - [Programming Projects, All The Way From The Beginning!](https://github.com/jay-wehran/begProgs)
 
 - <b>Intermediate Programming Projects)</b>
- - [Programming Projects, Just A Little More Advanced...]
+ - [Programming Projects, Just A Little More Advanced...](https://github.com/jay-wehran/intermedProgs)
 
-  
 - <b>Data Structures and Algorithms Implementations in Java)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Systems Software Projects (C & C++)</b>
