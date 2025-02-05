@@ -1,12 +1,4 @@
-<h1>Hi, I'm Jason! <br/>
-
-<h2>🕸️ Information Systems Projects / Business Projects</h2>
-
-  - [ParkMobile Parking Zone Implementation](https://github.com/jay-wehran/ParkMobileImp)
-  - [MarketPlace Simulation Role Description](https://github.com/jay-wehran/marketSim)
-
-
-<h2>👨‍💻 Coding Projects & Progression:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Beginner Programming Projects (Java)</b>
   - [Programming Projects, All The Way From The Beginning!](https://github.com/jay-wehran/begProgs)
@@ -22,3 +14,9 @@
 
 - <b>Web Systems Programming Projects (Javascript)</b>
   - Currently practicing and learning this... projects soon to come.
+
+
+<h2>🕸️ Information Systems Projects / Business Projects</h2>
+
+  - [ParkMobile Parking Zone Implementation](https://github.com/jay-wehran/ParkMobileImp)
+  - [MarketPlace Simulation Role Description](https://github.com/jay-wehran/marketSim)
