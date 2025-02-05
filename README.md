@@ -8,18 +8,18 @@
 
 - <b>Linux Kernel Module (C)</b>
   - [/proc File Interface](https://github.com/jay-wehran/LinuxKernelMod.git)
-
-- <b>Beginner Programming Projects (Java)</b>
-  - [Beginner Projects](https://github.com/jay-wehran/begProgs)
-
-- <b>Intermediate Programming Projects (Java)</b>
-  - [Intermediate Projects](https://github.com/jay-wehran/intermedProgs)
-
-- <b>Data Structures and Algorithms Implementations (Java)</b>
-  - [DS+A Implementations](https://github.com/jay-wehran/DSA)
   
 - <b>Systems Software Projects (C & C++)</b>
   - [Basic Systems Software Projects](https://github.com/jay-wehran/SystemsSoftware)
+
+- <b>Data Structures and Algorithms Implementations (Java)</b>
+  - [DS+A Implementations](https://github.com/jay-wehran/DSA)
+
+- <b>Intermediate Programming Projects (Java)</b>
+  - [Intermediate Projects](https://github.com/jay-wehran/intermedProgs)
+ 
+- <b>Beginner Programming Projects (Java)</b>
+  - [Beginner Projects](https://github.com/jay-wehran/begProgs)
 
 
 <h2>🕸️ Information Systems Projects / Business Projects</h2>
