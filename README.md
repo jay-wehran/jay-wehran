@@ -1,19 +1,25 @@
 <h2>👨‍💻 Projects:</h2>
 
+- <b>Embedded Sentry Project (C++)</b>
+  - [Embedded](https://github.com/jay-wehran/embeddedSentry.git)
+
+- <b>RISC-V Cycle Accurate Simulator (C++)</b>
+  - [RISC-V](https://github.com/jay-wehran/RISC-V-Cycle-Sim.git)
+
+- <b>Linux Kernel Module (C)</b>
+  - [/proc File Interface](https://github.com/jay-wehran/LinuxKernelMod.git)
+
 - <b>Beginner Programming Projects (Java)</b>
-  - [Programming Projects, All The Way From The Beginning!](https://github.com/jay-wehran/begProgs)
+  - [Beginner Projects](https://github.com/jay-wehran/begProgs)
 
 - <b>Intermediate Programming Projects (Java)</b>
-  - [Programming Projects, Just A Little More Advanced...](https://github.com/jay-wehran/intermedProgs)
+  - [Intermediate Projects](https://github.com/jay-wehran/intermedProgs)
 
 - <b>Data Structures and Algorithms Implementations (Java)</b>
-  - [DS+A Implementations!!](https://github.com/jay-wehran/DSA)
+  - [DS+A Implementations](https://github.com/jay-wehran/DSA)
   
 - <b>Systems Software Projects (C & C++)</b>
-  - [Basic Systems Software Projects!](https://github.com/jay-wehran/SystemsSoftware)
-
-- <b>Web Systems Programming Projects (Javascript)</b>
-  - Currently practicing and learning this... projects soon to come.
+  - [Basic Systems Software Projects](https://github.com/jay-wehran/SystemsSoftware)
 
 
 <h2>🕸️ Information Systems Projects / Business Projects</h2>
